@@ -6,5 +6,8 @@ describe('index.js', function () {
 });
 });
 
-const companyName ="companyName"
-let companyName = 'Scuber';
+const companyName = 'Scuber';
+
+let mostProfitableNeighborhood = 'Chelsea';
+
+let companyCeo = 'Susan Smith';
