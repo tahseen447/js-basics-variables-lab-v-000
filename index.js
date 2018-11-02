@@ -5,3 +5,6 @@ describe('index.js', function () {
   expect(companyName).to.equal('Scuber');
 });
 });
+
+let companyName = 'Scuber';
+let companyName = 'Scuber';
