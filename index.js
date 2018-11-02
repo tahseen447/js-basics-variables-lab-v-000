@@ -6,5 +6,5 @@ describe('index.js', function () {
 });
 });
 
-let companyName = 'Scuber';
+const companyName ="companyName"
 let companyName = 'Scuber';
